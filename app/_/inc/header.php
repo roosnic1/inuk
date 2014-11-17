@@ -9,7 +9,7 @@
 				<span class="icon-bar"></span>
 			</button>
 			<a class="navbar-brand" href="#">
-				<img alt="Brand" src="...">
+				<img alt="Brand" src="/_/img/inuk_logo.png" style="height:60px">
 			</a>
 		</div>
 		<div class="collapse navbar-collapse" id="koki-navbar">
