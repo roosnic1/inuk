@@ -1,0 +1,36 @@
+/******************************************************
+* MAIN.SCSS
+*	Main site element styles go in this file.
+*	Iclude styles for primary elements that are
+*	used site wide (a, h1, p, body, etc).
+\******************************************************/
+
+.koLogo {
+	background-image: url(/_/img/inuk_logo.png);
+	height:80px; width:auto;
+	background-repeat: no-repeat;
+	background-size: contain;
+
+}
+
+.koNav {
+	height: 80px;
+}
+
+.koNav ul {
+	display: table-row;
+	text-align: right;
+}
+
+.koNav ul li {
+	display: table-cell;
+    height: 80px;
+    list-style-type: none;
+    margin: 10px;
+    padding-left: 10px;
+    vertical-align: middle;
+}
+
+.koLink {
+
+}

@@ -1,0 +1,12 @@
+{
+  "name": "inuk",
+  "version": "0.1.0",
+  "dependencies": {
+  	"html5-boilerplate": "~4.2.0",
+    "bootstrap": "~3.0.3",
+    "respond": "~1.3.0",
+    "modernizr": "~2.6.2",
+    "jquery": "~1.10.2"
+  },
+  "devDependencies": {}
+}
