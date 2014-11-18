@@ -5,6 +5,11 @@
 *	used site wide (a, h1, p, body, etc).
 \******************************************************/
 
+@font-face {
+	font-family: BrandonTextRegular;
+	src: url(/_/css/fonts/BrandonTextRegular.otf);
+}
+
 .koLogo {
 	background-image: url(/_/img/inuk_logo.png);
 	height:80px; width:auto;
@@ -32,5 +37,8 @@
 }
 
 .koLink {
+	font-family: BrandonTextRegular;
+	color: #454545;
+}
 
 }
