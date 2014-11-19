@@ -5,6 +5,11 @@
 *	used site wide (a, h1, p, body, etc).
 \******************************************************/
 
+:root {
+    --masala: #454545;
+    --thatch: #93bc91;
+}
+
 @font-face {
 	font-family: BrandonTextRegular;
 	src: url(/_/css/fonts/BrandonTextRegular.otf);
@@ -41,4 +46,14 @@
 	color: #454545;
 }
 
+.koLink:hover {
+
 }
+
+/*Override Bootstrap Hover*/
+.nav > li > a:hover {
+	background-color: transparent; !important;
+	color: #93bc91;
+	text-decoration: underline;
+}
+

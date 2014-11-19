@@ -8,15 +8,17 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="#">
+			<!--<a class="navbar-brand" href="#">-->
+			<div style="float:left">
 				<img alt="Brand" src="/_/img/inuk_logo.png" style="height:60px">
-			</a>
+			</div>
+			<!--</a>-->
 		</div>
 		<div class="collapse navbar-collapse" id="koki-navbar">
 			<ul class="nav navbar-nav navbar-right">
-				<li><a href="#">NEWS</a></li>
-				<li><a href="#">PRODUKTE</a></li>
-				<li><a href="#">KOLLEKTIV</a></li>
+				<li><a href="#" class="koLink">NEWS</a></li>
+				<li><a href="#" class="koLink">PRODUKTE</a></li>
+				<li><a href="#" class="koLink">KOLLEKTIV</a></li>
 			</ul>
 		</div>
 	</div>
