@@ -50,6 +50,16 @@
 
 }
 
+.koProdImg {
+	width: 100%;
+}
+
+
+.koProdBreak {
+	height: 50px;
+
+}
+
 /*Override Bootstrap Hover*/
 .nav > li > a:hover {
 	background-color: transparent; !important;

@@ -13,25 +13,52 @@
 <body>
     <div class="container">
         <div class="row">
-            <div class="col-md-8 col-md-offset-2">
+            <div class="col-xs-8 col-xs-offset-2">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <?php require('_/inc/header.php'); ?>
+                    </div>
+                </div>
 
-                <?php require('_/inc/header.php'); ?>
-                <div id="PageBody">
-                    <h1>www.test.com</h1>        Your site is already wired up with:
-                    <ul>
-                        <li>blabla</li>
-                        <li>Jquery (1.10)</li>
-                        <li>HTML 5 Boilerplate</li>
-                        <li>Twitter Bootstrap (v 3.0.3)</li>
-                    </ul>
-                    <p>Don't forget to setup your site-wide variables for DEV and LIVE in /_/inc/init.php</p>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-5">
+                        <img src="/_/img/preview_vittoria.png" class="koProdImg" />
+                    </div>
+                    <div class="col-xs-12 visible-xs-block">
+                        <div class="koProdBreak"></div>
 
+                    </div>
+                    <div class="col-xs-12 col-sm-7">
+                        <img src="/_/img/preview_zeugen.png" class="koProdImg" />
+                    </div>
+
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="koProdBreak"></div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-12 col-sm-7">
+                        <img src="/_/img/preview_avalu.png" class="koProdImg" />
+                    </div>
+                    <div class="col-xs-12 visible-xs-block">
+                        <div class="koProdBreak"></div>
+
+                    </div>
+                    <div class="col-xs-12 col-sm-5">
+                        <img src="/_/img/preview_waldtiere.png" class="koProdImg" />
+                    </div>
 
                 </div>
 
 
             </div>
         </div>
+
+
 
     </div>
 
