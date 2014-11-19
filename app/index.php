@@ -21,15 +21,20 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-xs-12 col-sm-5">
+                    <div class="col-xs-12 col-sm-5 koMouseOver">
                         <img src="/_/img/preview_vittoria.png" class="koProdImg" />
+                        <div class="koProdInfo">
+                            <h1>Vittoria</h1>
+                            <h3>espresso Tasse</h3>
+                        </div>
                     </div>
                     <div class="col-xs-12 visible-xs-block">
                         <div class="koProdBreak"></div>
 
                     </div>
-                    <div class="col-xs-12 col-sm-7">
+                    <div class="col-xs-12 col-sm-7 koMouseOver">
                         <img src="/_/img/preview_zeugen.png" class="koProdImg" />
+                        <div class="koProdInfo"></div>
                     </div>
 
                 </div>
@@ -41,15 +46,17 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-xs-12 col-sm-7">
+                    <div class="col-xs-12 col-sm-7 koMouseOver">
                         <img src="/_/img/preview_avalu.png" class="koProdImg" />
+                        <div class="koProdInfo"></div>
                     </div>
                     <div class="col-xs-12 visible-xs-block">
                         <div class="koProdBreak"></div>
 
                     </div>
-                    <div class="col-xs-12 col-sm-5">
+                    <div class="col-xs-12 col-sm-5 koMouseOver">
                         <img src="/_/img/preview_waldtiere.png" class="koProdImg" />
+                        <div class="koProdInfo"></div>
                     </div>
 
                 </div>

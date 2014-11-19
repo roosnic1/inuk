@@ -60,6 +60,26 @@
 
 }
 
+.koProdInfo {
+	-webkit-transition: opacity 0.5s ease-in-out;
+    -moz-transition: opacity 0.5s ease-in-out;
+    transition: opacity 0.5s ease-in-out;
+	opacity: 0;
+	top: 0;
+	position: absolute;
+	width:93%;
+	height:100%;
+	/*background-color: green;*/
+	background-image: url(/_/img/stamp.png);
+	background-repeat: no-repeat;
+	background-size: 90% 90%;
+	background-position: center center;
+}
+
+.koProdInfoShow {
+	opacity: 1;
+}
+
 /*Override Bootstrap Hover*/
 .nav > li > a:hover {
 	background-color: transparent; !important;

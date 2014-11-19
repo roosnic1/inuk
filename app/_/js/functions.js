@@ -13,7 +13,21 @@ function TrackEvent(category, action, label, url) {
 		}
 
 		return true;
-	} catch(e) {
+	} catch (e) {
 		//Do nothing, it's just a track event.
 	}
 }
+
+$('.koMouseOver').on('mouseenter', function() {
+	console.log('TEST 1');
+	console.log($(this).find('.koProdInfo')[0]);
+	var prodInfo = $(this).find('.koProdInfo')[0];
+	$(prodInfo).toggleClass('koProdInfoShow')
+});
+
+$('.koMouseOver').on('mouseleave', function() {
+	console.log('TEST 1');
+	console.log($(this).find('.koProdInfo')[0]);
+	var prodInfo = $(this).find('.koProdInfo')[0];
+	$(prodInfo).toggleClass('koProdInfoShow')
+});
