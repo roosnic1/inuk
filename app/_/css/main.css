@@ -67,7 +67,7 @@
 
 
 .koProdBreak {
-	height: 50px;
+	height: 30px;
 
 }
 
@@ -91,6 +91,35 @@
 	opacity: 1;
 }
 
+.koDesc {
+	line-height: 24px;
+}
+
+
+.koDesc > h1 {
+	font-family: FreightTextLightItalic;
+	font-size: 36px;
+}
+
+.koDesc > p {
+	font-family: FreightTextLightItalic;
+	font-size: 20px;
+}
+
+.koDesc2 > p {
+	font-family: FreightTextLight;
+	font-size: 13px;
+}
+
+.koDesc2 > table > tbody > tr > td {
+	line-height: 11px;
+	width: 50%;
+}
+
+.koDesc2 > table > tbody > tr > td > p {
+	font-family: FreightTextLight;
+	font-size: 13px;
+}
 /*Override Bootstrap Hover*/
 .nav > li > a:hover {
 	background-color: transparent; !important;
