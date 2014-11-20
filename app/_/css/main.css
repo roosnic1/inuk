@@ -15,6 +15,17 @@
 	src: url(/_/css/fonts/BrandonTextRegular.otf);
 }
 
+
+@font-face {
+	font-family: FreightTextLightItalic;
+	src: url(/_/css/fonts/FreightTextLightItalic.ttf);
+}
+
+@font-face {
+	font-family: FreightTextLight;
+	src: url(/_/css/fonts/FreightTextLight.ttf);
+}
+
 .koLogo {
 	background-image: url(/_/img/inuk_logo.png);
 	height:80px; width:auto;
