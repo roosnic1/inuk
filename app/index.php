@@ -22,19 +22,23 @@
 
                 <div class="row">
                     <div class="col-xs-12 col-sm-5 koMouseOver">
-                        <img src="/_/img/preview_vittoria.png" class="koProdImg" />
-                        <div class="koProdInfo">
-                            <h1>Vittoria</h1>
-                            <h3>espresso Tasse</h3>
-                        </div>
+                        <a href="/vittoria.php">
+                            <img src="/_/img/preview_vittoria.png" class="koProdImg" />
+                            <div class="koProdInfo">
+                                <h1>Vittoria</h1>
+                                <h3>espresso Tasse</h3>
+                            </div>
+                        </a>
                     </div>
                     <div class="col-xs-12 visible-xs-block">
                         <div class="koProdBreak"></div>
 
                     </div>
                     <div class="col-xs-12 col-sm-7 koMouseOver">
-                        <img src="/_/img/preview_zeugen.png" class="koProdImg" />
-                        <div class="koProdInfo"></div>
+                        <a href="/zeugen.php">
+                            <img src="/_/img/preview_zeugen.png" class="koProdImg" />
+                            <div class="koProdInfo"></div>
+                        </a>
                     </div>
 
                 </div>
@@ -47,16 +51,20 @@
 
                 <div class="row">
                     <div class="col-xs-12 col-sm-7 koMouseOver">
-                        <img src="/_/img/preview_avalu.png" class="koProdImg" />
-                        <div class="koProdInfo"></div>
+                        <a href="/avalu.php">
+                            <img src="/_/img/preview_avalu.png" class="koProdImg" />
+                            <div class="koProdInfo"></div>
+                        </a>
                     </div>
                     <div class="col-xs-12 visible-xs-block">
                         <div class="koProdBreak"></div>
 
                     </div>
                     <div class="col-xs-12 col-sm-5 koMouseOver">
-                        <img src="/_/img/preview_waldtiere.png" class="koProdImg" />
-                        <div class="koProdInfo"></div>
+                        <a href="/waldtiere.php">
+                            <img src="/_/img/preview_waldtiere.png" class="koProdImg" />
+                            <div class="koProdInfo"></div>
+                        </a>
                     </div>
 
                 </div>
