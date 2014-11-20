@@ -5,7 +5,7 @@
 
 	//Constants
 	define("FROM_EMAIL", "www.test.com <webform@www.test.com>");
-	
+
 	//Setup Variable for tracking VirtualPageViews in analytics.
 	$VirtualPageView = "";
 
@@ -25,11 +25,14 @@
 			define("CONTACT_EMAIL", "");
 			define("ANALYTICS_ID", "");
 			break;
-		
+
 		case 'www.test.com':
 			define("CONTACT_EMAIL", "");
 			define("ANALYTICS_ID", "");
 			break;
 	}
+
+	//Set Timezone
+	date_default_timezone_set("Europe/Zurich")
 
 ?>
