@@ -99,16 +99,19 @@
 .koDesc > h1 {
 	font-family: FreightTextLightItalic;
 	font-size: 36px;
+	color: #454545;
 }
 
 .koDesc > p {
 	font-family: FreightTextLightItalic;
 	font-size: 20px;
+	color: #454545;
 }
 
 .koDesc2 > p {
 	font-family: FreightTextLight;
 	font-size: 13px;
+	color: #454545;
 }
 
 .koDesc2 > table > tbody > tr > td {
@@ -119,6 +122,7 @@
 .koDesc2 > table > tbody > tr > td > p {
 	font-family: FreightTextLight;
 	font-size: 13px;
+	color: #454545;
 }
 /*Override Bootstrap Hover*/
 .nav > li > a:hover {
