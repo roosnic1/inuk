@@ -19,15 +19,11 @@ function TrackEvent(category, action, label, url) {
 }
 
 $('.koMouseOver').on('mouseenter', function() {
-	console.log('TEST 1');
-	console.log($(this).find('.koProdInfo')[0]);
 	var prodInfo = $(this).find('.koProdInfo')[0];
 	$(prodInfo).toggleClass('koProdInfoShow')
 });
 
 $('.koMouseOver').on('mouseleave', function() {
-	console.log('TEST 1');
-	console.log($(this).find('.koProdInfo')[0]);
 	var prodInfo = $(this).find('.koProdInfo')[0];
 	$(prodInfo).toggleClass('koProdInfoShow')
 });
