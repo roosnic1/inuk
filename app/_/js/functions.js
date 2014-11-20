@@ -20,10 +20,13 @@ function TrackEvent(category, action, label, url) {
 
 $('.koMouseOver').on('mouseenter', function() {
 	var prodInfo = $(this).find('.koProdInfo')[0];
-	$(prodInfo).toggleClass('koProdInfoShow')
+	$(prodInfo).toggleClass('koProdInfoShow');
+	var img = $(this).find('img')[0];
+	$(prodInfo).width($(img).width());
+	//console.log($(img).width());
 });
 
 $('.koMouseOver').on('mouseleave', function() {
 	var prodInfo = $(this).find('.koProdInfo')[0];
-	$(prodInfo).toggleClass('koProdInfoShow')
+	$(prodInfo).toggleClass('koProdInfoShow');
 });

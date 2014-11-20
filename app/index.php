@@ -25,8 +25,10 @@
                         <a href="/vittoria.php">
                             <img src="/_/img/preview_vittoria.png" class="koProdImg" />
                             <div class="koProdInfo">
-                                <h1>Vittoria</h1>
-                                <h3>espresso Tasse</h3>
+                                <h1 class="text-center">Vittoria</h1>
+                                <div>
+                                    <h3 class="text-center">espressotasse</h3>
+                                </div>
                             </div>
                         </a>
                     </div>
@@ -37,7 +39,12 @@
                     <div class="col-xs-12 col-sm-7 koMouseOver">
                         <a href="/zeugen.php">
                             <img src="/_/img/preview_zeugen.png" class="koProdImg" />
-                            <div class="koProdInfo"></div>
+                            <div class="koProdInfo">
+                                <h1 class="text-center">Zeugen</h1>
+                                <div>
+                                    <h3 class="text-center">Bachelorarbeit</h3>
+                                </div>
+                            </div>
                         </a>
                     </div>
 
@@ -53,7 +60,12 @@
                     <div class="col-xs-12 col-sm-7 koMouseOver">
                         <a href="/avalu.php">
                             <img src="/_/img/preview_avalu.png" class="koProdImg" />
-                            <div class="koProdInfo"></div>
+                            <div class="koProdInfo">
+                                <h1 class="text-center">Avalu</h1>
+                                <div>
+                                    <h3 class="text-center">Posterrahmen</h3>
+                                </div>
+                            </div>
                         </a>
                     </div>
                     <div class="col-xs-12 visible-xs-block">
@@ -63,7 +75,12 @@
                     <div class="col-xs-12 col-sm-5 koMouseOver">
                         <a href="/waldtiere.php">
                             <img src="/_/img/preview_waldtiere.png" class="koProdImg" />
-                            <div class="koProdInfo"></div>
+                            <div class="koProdInfo">
+                                <h1 class="text-center">Waldtiere</h1>
+                                <div>
+                                    <h3 class="text-center">Karten</h3>
+                                </div>
+                            </div>
                         </a>
                     </div>
 

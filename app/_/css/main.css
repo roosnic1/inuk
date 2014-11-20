@@ -95,6 +95,25 @@
 	opacity: 1;
 }
 
+.koProdInfo > h1 {
+	font-family: FreightTextLightItalic;
+	font-size: 30px;
+	color: #454545;
+}
+
+.koProdInfo > div {
+	bottom: 3%;
+	position: absolute;
+	width: 100%;
+}
+
+.koProdInfo > div > h3 {
+	font-family: FreightTextLightItalic;
+	font-size: 20px;
+	color: #454545;
+	padding-top: 60%;
+}
+
 .koDesc {
 	line-height: 24px;
 }
