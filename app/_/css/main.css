@@ -26,6 +26,10 @@
 	src: url(/_/css/fonts/FreightTextLight.ttf);
 }
 
+header {
+	padding-top: 30px;
+}
+
 .koLogo {
 	background-image: url(/_/img/inuk_logo.png);
 	height:80px; width:auto;

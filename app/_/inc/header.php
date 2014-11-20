@@ -10,7 +10,9 @@
 			</button>
 			<!--<a class="navbar-brand" href="#">-->
 			<div style="float:left">
-				<img alt="Brand" src="/_/img/inuk_logo.png" style="height:60px">
+				<a href="/">
+					<img alt="Brand" src="/_/img/inuk_logo.png" style="height:60px">
+				</a>
 			</div>
 			<!--</a>-->
 		</div>
@@ -25,7 +27,7 @@
 						echo '<li><a href="/" class="koLink">PRODUKTE</a></li>';
 						echo '<li><a href="/kollektiv.php" class="koLink koLinkActive">KOLLEKTIV</a></li>';
 					} else {
-						echo '<li><a href="/" class="koLink koLinkActive">PRODUKTE</a></li>';
+						echo '<li><a href="/" class="koLink">PRODUKTE</a></li>';
 						echo '<li><a href="/kollektiv.php" class="koLink">KOLLEKTIV</a></li>';
 					}
 
