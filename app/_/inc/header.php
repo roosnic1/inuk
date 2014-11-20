@@ -16,9 +16,20 @@
 		</div>
 		<div class="collapse navbar-collapse" id="koki-navbar">
 			<ul class="nav navbar-nav navbar-right">
-				<li><a href="#" class="koLink">NEWS</a></li>
-				<li><a href="#" class="koLink">PRODUKTE</a></li>
-				<li><a href="#" class="koLink">KOLLEKTIV</a></li>
+				<!--<li><a href="#" class="koLink">NEWS</a></li>-->
+				<?php
+					if($_SERVER['PHP_SELF'] == '/index.php') {
+						echo '<li><a href="/" class="koLink koLinkActive">PRODUKTE</a></li>';
+						echo '<li><a href="/kollektiv.php" class="koLink">KOLLEKTIV</a></li>';
+					} elseif($_SERVER['PHP_SELF'] == '/kollektiv.php') {
+						echo '<li><a href="/" class="koLink">PRODUKTE</a></li>';
+						echo '<li><a href="/kollektiv.php" class="koLink koLinkActive">KOLLEKTIV</a></li>';
+					} else {
+						echo '<li><a href="/" class="koLink koLinkActive">PRODUKTE</a></li>';
+						echo '<li><a href="/kollektiv.php" class="koLink">KOLLEKTIV</a></li>';
+					}
+
+				?>
 			</ul>
 		</div>
 	</div>

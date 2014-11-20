@@ -57,6 +57,10 @@
 	color: #454545;
 }
 
+.koLinkActive {
+	color: #93bc91 !important;
+}
+
 .koLink:hover {
 
 }
@@ -127,7 +131,6 @@
 /*Override Bootstrap Hover*/
 .nav > li > a:hover {
 	background-color: transparent; !important;
-	color: #93bc91;
 	text-decoration: underline;
 }
 
