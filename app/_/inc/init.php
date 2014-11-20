@@ -21,12 +21,12 @@
 
 	//SET SERVER SPECIFIC VARIABLES AND CONSTANTS
 	switch ($ServerName) {
-		case 'www.test.com/dev':
+		case '0.0.0.0':
 			define("CONTACT_EMAIL", "");
 			define("ANALYTICS_ID", "");
 			break;
 
-		case 'www.test.com':
+		case 'www.inuk-kollektiv.ch':
 			define("CONTACT_EMAIL", "");
 			define("ANALYTICS_ID", "");
 			break;
