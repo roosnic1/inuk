@@ -56,7 +56,7 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-xs-4 koDesc2">
+                    <div class="col-sm-5 col-xs-12 koDesc2">
                         <p>Die kleine Espressotasse wurde inspiriert durch die Formen des Keramikkunsthandwerkes aus dem 18. Jahrhundert. Die Form wurde an die heutige Zeit adaptiert und mittels modernen 3D-Druckverfahrens hergestellt.</p>
 
                         <table>
@@ -76,8 +76,13 @@
                             <td><p>Design:</p></td>
                             <td><p>Humberto Rapelli</p></td>
                           </tr>
-                        </table>                    </div>
-                    <div class="col-xs-7 col-xs-offset-1">
+                        </table>
+                    </div>
+                    <div class="col-xs-12 visible-xs-block">
+                        <div class="koProdBreak"></div>
+
+                    </div>
+                    <div class="col-sm-7 col-xs-12">
                         <img src="/_/img/vittoria/img2.png" class="koProdImg" />
                     </div>
                 </div>
@@ -89,10 +94,13 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-xs-6">
+                    <div class="col-xs-12 col-sm-6">
                         <img src="/_/img/vittoria/img3.png" class="koProdImg" />
                     </div>
-                    <div class="col-xs-6">
+                    <div class="col-xs-12 visible-xs-block">
+                        <div class="koProdBreak"></div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6">
                         <img src="/_/img/vittoria/img4.png" class="koProdImg" />
                     </div>
                 </div>
