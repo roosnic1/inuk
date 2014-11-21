@@ -27,7 +27,8 @@
 }
 
 header {
-	padding-top: 30px;
+	padding-top: 35px;
+	padding-bottom: 35px;
 }
 
 footer {
@@ -76,6 +77,8 @@ body {
 	font-family: BrandonTextRegular;
 	color: #454545;
 	text-align: center;
+	font-size: 18px;
+	letter-spacing: 2.5px;
 }
 
 @media (min-width: 480px) {
@@ -348,5 +351,13 @@ body {
 .nav > li > a:hover {
 	background-color: transparent; !important;
 	text-decoration: underline;
+}
+
+.navbar {
+	margin-bottom: 0 !important;
+}
+
+.navbar-nav > li > a {
+	line-height: 30px;
 }
 
