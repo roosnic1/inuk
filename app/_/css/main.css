@@ -119,7 +119,27 @@ body {
 }
 
 .koPIVittoria {
-	background-image: url(/_/img/stamp_vittoria.png);
+	background-image: url(/_/img/stamp_vittoria.jpg);
+}
+
+.koPIZeugen {
+	background-image: url(/_/img/stamp_zeugen.jpg);
+}
+
+.koPIAvalu {
+	background-image: url(/_/img/stamp_avalu.jpg);
+}
+
+.koPIWaldtiere {
+	background-image: url(/_/img/stamp_waldtiere.jpg);
+}
+
+.koPISherpa {
+	background-image: url(/_/img/stamp_sherpa.jpg);
+}
+
+.koPISir {
+	background-image: url(/_/img/stamp_sir.jpg);
 }
 
 .koProdInfoShow {
@@ -128,22 +148,77 @@ body {
 
 .koProdInfo > h1 {
 	font-family: FreightTextLightItalic;
-	font-size: 30px;
 	color: #454545;
+	font-size: 48px;
+	letter-spacing: 4px;
+	margin-top: 36px;
 }
 
 .koProdInfo > div {
-	bottom: 3%;
 	position: absolute;
 	width: 100%;
+
 }
 
 .koProdInfo > div > h3 {
 	font-family: FreightTextLightItalic;
-	font-size: 20px;
 	color: #454545;
 	padding-top: 60%;
 }
+
+@media (max-width: 749px) {
+	.koProdInfo {
+		display: none;
+	}
+}
+
+@media (min-width: 750px) {
+	.koProdInfo > h1 {
+		font-size: 26px;
+		letter-spacing: 3px;
+		margin-top: 26px;
+	}
+
+	.koProdInfo > div {
+		bottom: 8%;
+	}
+
+	.koProdInfo > div > h3 {
+		font-size: 16px;
+	}
+ }
+
+@media (min-width: 970px) {
+	.koProdInfo > h1 {
+		font-size: 34px;
+		letter-spacing: 4px;
+		margin-top: 36px;
+	}
+
+	.koProdInfo > div {
+		bottom: 11%;
+	}
+
+	.koProdInfo > div > h3 {
+		font-size: 18px;
+	}
+ }
+
+@media (min-width: 1170px) {
+	.koProdInfo > h1 {
+		font-size: 48px;
+		letter-spacing: 4px;
+		margin-top: 36px;
+	}
+
+	.koProdInfo > div {
+		bottom: 11%;
+	}
+
+	.koProdInfo > div > h3 {
+		font-size: 18px;
+	}
+ }
 
 .koDesc {
 	line-height: 24px;
