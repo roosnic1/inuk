@@ -112,10 +112,14 @@ body {
 	width:93%;
 	height:100%;
 	/*background-color: green;*/
-	background-image: url(/_/img/stamp.png);
+	/*background-image: url(/_/img/stamp.png);*/
 	background-repeat: no-repeat;
 	background-size: 90% 90%;
 	background-position: center center;
+}
+
+.koPIVittoria {
+	background-image: url(/_/img/stamp_vittoria.png);
 }
 
 .koProdInfoShow {
