@@ -30,6 +30,22 @@ header {
 	padding-top: 30px;
 }
 
+footer {
+	padding-top: 30px;
+}
+
+body {
+	background-color:rgba(227,234,220,0.20);
+}
+
+.navbar-header > button.collapsed > .icon-bar {
+	background-color: #454545;
+}
+
+.navbar-header > button > .icon-bar {
+	background-color: #93bc91;
+}
+
 .koLogo {
 	background-image: url(/_/img/inuk_logo.png);
 	height:80px; width:auto;
