@@ -34,7 +34,7 @@
                     	<p class="text-center">Es war einmal eine junge Adlige namens Vittoria.</p>
                         <p class="text-center">Sie lebte im 18. Jahrhundert in einem kleinen Dorf auf Sizilien.</p>
                         <p class="text-center">Täglich, bei Tagesanbruch, badete Vittoria in einer Badewanne voll mit warmen Kaffee, bis dieser kalt wurde, um so ihre Schönheit zu bewahren. </p>
-                    -->    
+                    -->
                     </div>
 
                 </div>
@@ -47,7 +47,7 @@
 
                 <div class="row">
                     <div class="col-xs-12">
-                        <img src="/_/img/waldtiere/img1.png" class="koProdImg" />
+                        <img src="/_/img/waldtiere/img1.jpg" class="koProdImg" />
                     </div>
                 </div>
 
@@ -87,7 +87,7 @@
 
                     </div>
                     <div class="col-sm-7 col-xs-12">
-                        <img src="/_/img/waldtiere/img2.png" class="koProdImg" />
+                        <img src="/_/img/waldtiere/img2.jpg" class="koProdImg" />
                     </div>
                 </div>
 
@@ -99,7 +99,7 @@
 
                 <div class="row">
                     <div class="col-xs-12">
-                        <img src="/_/img/waldtiere/img3.png" class="koProdImg" />
+                        <img src="/_/img/waldtiere/img3.jpg" class="koProdImg" />
                     </div>
                 </div>
 
@@ -111,13 +111,13 @@
 
                 <div class="row">
                     <div class="col-xs-12 col-sm-6">
-                        <img src="/_/img/waldtiere/img4.png" class="koProdImg" />
+                        <img src="/_/img/waldtiere/img4.jpg" class="koProdImg" />
                     </div>
                     <div class="col-xs-12 visible-xs-block">
                         <div class="koProdBreak"></div>
                     </div>
                     <div class="col-xs-12 col-sm-6">
-                        <img src="/_/img/waldtiere/img5.png" class="koProdImg" />
+                        <img src="/_/img/waldtiere/img5.jpg" class="koProdImg" />
                     </div>
                 </div>
 
@@ -129,7 +129,7 @@
 
                 <div class="row">
                     <div class="col-xs-12">
-                        <img src="/_/img/waldtiere/img6.png" class="koProdImg" />
+                        <img src="/_/img/waldtiere/img6.jpg" class="koProdImg" />
                     </div>
                 </div>
 

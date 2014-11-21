@@ -94,7 +94,7 @@
 
                     </div>
                     <div class="col-sm-7 col-xs-12">
-                        <img src="/_/img/vittoria/img2.jpg" class="koProdImg" />
+                        <img src="/_/img/sir/img2.jpg" class="koProdImg" />
                     </div>
                 </div>
 
@@ -112,7 +112,7 @@
 
                 <div class="row">
                     <div class="col-xs-12">
-                        <img src="/_/img/vittoria/img3.jpg" class="koProdImg" />
+                        <img src="/_/img/sir/img3.jpg" class="koProdImg" />
                     </div>
                 </div>
 
@@ -124,7 +124,7 @@
 
                 <div class="row">
                     <div class="col-xs-12">
-                        <img src="/_/img/vittoria/img4.jpg" class="koProdImg" />
+                        <img src="/_/img/sir/img4.jpg" class="koProdImg" />
                     </div>
                 </div>
 

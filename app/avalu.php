@@ -45,7 +45,7 @@
 
                 <div class="row">
                     <div class="col-xs-12">
-                        <img src="/_/img/avalu/img1.png" class="koProdImg" />
+                        <img src="/_/img/avalu/img1.jpg" class="koProdImg" />
                     </div>
                 </div>
 
@@ -90,7 +90,7 @@
 
                     </div>
                     <div class="col-sm-7 col-xs-12">
-                        <img src="/_/img/avalu/img2.png" class="koProdImg" />
+                        <img src="/_/img/avalu/img2.jpg" class="koProdImg" />
                     </div>
                 </div>
 
@@ -102,7 +102,7 @@
 
                 <div class="row">
                     <div class="col-xs-12">
-                        <img src="/_/img/avalu/img3.png" class="koProdImg" />
+                        <img src="/_/img/avalu/img3.jpg" class="koProdImg" />
                     </div>
                 </div>
 
