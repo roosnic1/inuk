@@ -4,7 +4,7 @@
 	require("_/inc/functions.php");
 
 	//Constants
-	define("FROM_EMAIL", "www.test.com <webform@www.test.com>");
+	define("FROM_EMAIL", "www.inuk-kollektiv.ch <mail@inuk-kollektiv.ch>");
 
 	//Setup Variable for tracking VirtualPageViews in analytics.
 	$VirtualPageView = "";
@@ -27,8 +27,8 @@
 			break;
 
 		case 'www.inuk-kollektiv.ch':
-			define("CONTACT_EMAIL", "");
-			define("ANALYTICS_ID", "");
+			define("CONTACT_EMAIL", "mail@inuk-kollektiv.ch");
+			define("ANALYTICS_ID", "UA-56991711-1");
 			break;
 	}
 
