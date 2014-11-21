@@ -229,6 +229,7 @@ body {
 	font-family: FreightTextLightItalic;
 	font-size: 36px;
 	color: #454545;
+	letter-spacing: 3px;
 }
 
 .koDesc > p {
@@ -239,21 +240,75 @@ body {
 
 .koDesc2 > p {
 	font-family: FreightTextLight;
-	font-size: 13px;
+	font-size: 16px;
 	color: #454545;
+	padding-bottom: 20px;
 }
 
 .koDesc2 > table > tbody > tr > td {
-	line-height: 11px;
+	line-height: 17px;
 	width: 50%;
 }
 
 .koDesc2 > table > tbody > tr > td > p {
 	font-family: FreightTextLightItalic;
-	font-size: 13px;
+	font-size: 16px;
 	color: #454545;
 }
 
+@media (min-width: 750px) {
+	.koDesc > h1 {
+		font-size: 42px;
+		letter-spacing: 3px;
+	}
+
+	.koDesc > p {
+		font-size: 19px;
+		line-height: 28px;
+		letter-spacing: 0.5px;
+	}
+
+	.koDesc2 > p {
+		font-size: 16px;
+		line-height: 22px;
+		padding-bottom: 20px;
+	}
+
+	.koDesc2 > table > tbody > tr > td > p {
+		font-size: 14px;
+	}
+
+	.koDesc2 > table > tbody > tr > td {
+		line-height: 18px;
+	}
+}
+
+@media (min-width: 970px) {
+	.koDesc > h1 {
+		font-size: 44px;
+		letter-spacing: 3px;
+	}
+
+	.koDesc > p {
+		font-size: 22px;
+		line-height: 30px;
+		letter-spacing: 0.5px;
+	}
+
+	.koDesc2 > p {
+		font-size: 18px;
+		line-height: 28px;
+		padding-bottom: 20px;
+	}
+
+	.koDesc2 > table > tbody > tr > td > p {
+		font-size: 16px;
+	}
+
+	.koDesc2 > table > tbody > tr > td {
+		line-height: 18px;
+	}
+}
 
 @media (min-width: 1170px) {
 	.koDesc > h1 {
@@ -282,7 +337,6 @@ body {
 	}
 }
 
-}
 
 .koKollektiv {
 	font-family: FreightTextLight;
