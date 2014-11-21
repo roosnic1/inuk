@@ -75,6 +75,13 @@ body {
 .koLink {
 	font-family: BrandonTextRegular;
 	color: #454545;
+	text-align: center;
+}
+
+@media (min-width: 480px) {
+	.koLink {
+		text-align: left;
+	}
 }
 
 .koLinkActive {
