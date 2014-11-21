@@ -167,6 +167,13 @@ body {
 	font-size: 13px;
 	color: #454545;
 }
+
+.koKollektiv {
+	font-family: FreightTextLight;
+	font-size: 15px;
+	color: #454545;
+}
+
 /*Override Bootstrap Hover*/
 .nav > li > a:hover {
 	background-color: transparent; !important;
