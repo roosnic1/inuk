@@ -27,7 +27,7 @@
                             <div class="koProdInfo koPIVittoria">
                                 <h1 class="text-center">Vittoria</h1>
                                 <div>
-                                    <h3 class="text-center">espressotasse</h3>
+                                    <h3 class="text-center">Espressotasse</h3>
                                 </div>
                             </div>
                         </a>

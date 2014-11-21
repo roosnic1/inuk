@@ -52,7 +52,7 @@
 
                     </div>
                     <div class="col-sm-6 col-xs-12">
-                        <img src="/_/img/inuk_kollektiv.png" class="koProdImg" />
+                        <img src="/_/img/inuk_kollektiv.jpg" class="koProdImg" />
                     </div>
                 </div>
 

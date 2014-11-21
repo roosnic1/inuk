@@ -43,7 +43,7 @@
 
                 <div class="row">
                     <div class="col-xs-12">
-                        <img src="/_/img/zeugen/img1.png" class="koProdImg" />
+                        <img src="/_/img/zeugen/img1.jpg" class="koProdImg" />
                     </div>
                 </div>
 
@@ -77,7 +77,7 @@
 
                     </div>
                     <div class="col-sm-7 col-xs-12">
-                        <img src="/_/img/zeugen/img2.png" class="koProdImg" />
+                        <img src="/_/img/zeugen/img2.jpg" class="koProdImg" />
                     </div>
                 </div>
 
@@ -89,19 +89,19 @@
 
                 <div class="row">
                     <div class="col-xs-12 col-sm-4">
-                        <img src="/_/img/zeugen/img3.png" class="koProdImg" />
+                        <img src="/_/img/zeugen/img3.jpg" class="koProdImg" />
                     </div>
                     <div class="col-xs-12 visible-xs-block">
                         <div class="koProdBreak"></div>
                     </div>
                     <div class="col-xs-12 col-sm-4">
-                        <img src="/_/img/zeugen/img4.png" class="koProdImg" />
+                        <img src="/_/img/zeugen/img4.jpg" class="koProdImg" />
                     </div>
                     <div class="col-xs-12 visible-xs-block">
                         <div class="koProdBreak"></div>
                     </div>
                     <div class="col-xs-12 col-sm-4">
-                        <img src="/_/img/zeugen/img5.png" class="koProdImg" />
+                        <img src="/_/img/zeugen/img5.jpg" class="koProdImg" />
                     </div>
                 </div>
 
@@ -113,7 +113,7 @@
 
                 <div class="row">
                     <div class="col-xs-12">
-                        <img src="/_/img/zeugen/img6.png" class="koProdImg" />
+                        <img src="/_/img/zeugen/img6.jpg" class="koProdImg" />
                     </div>
                 </div>
 
@@ -125,7 +125,7 @@
 
                 <div class="row">
                     <div class="col-xs-12">
-                        <img src="/_/img/zeugen/img8.png" class="koProdImg" />
+                        <img src="/_/img/zeugen/img8.jpg" class="koProdImg" />
                     </div>
                 </div>
 
@@ -137,7 +137,7 @@
 
                 <div class="row">
                     <div class="col-xs-12">
-                        <img src="/_/img/zeugen/img7.png" class="koProdImg" />
+                        <img src="/_/img/zeugen/img7.jpg" class="koProdImg" />
                     </div>
                 </div>
 
