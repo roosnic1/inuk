@@ -22,7 +22,7 @@
 
                 <div class="row">
                     <div class="col-xs-4 col-xs-offset-4">
-                        <img src="/_/img/stamp.png" class="koProdImg" />
+                        <img src="/_/img/stamp_sir.png" class="koProdImg" />
                     </div>
 
                 </div>
