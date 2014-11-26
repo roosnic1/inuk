@@ -1,6 +1,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <meta name="viewport" content="width=device-width">
+        <meta name="theme-color" content="#93bc91">
         <!-- Custom Favicon -->
         <link rel="shortcut icon" href="http://<?php echo($ServerName); ?>/favicon.ico">
 
