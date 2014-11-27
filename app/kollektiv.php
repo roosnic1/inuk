@@ -65,7 +65,7 @@
                 <div class="row">
                     <div class="col-xs-12 col-sm-10 col-sm-offset-1">
                         <h3 class="text-center">Humberto Rapelli & Jacqueline Amacher</h3>
-                        <p class="text-center">mail@inuk-kollektiv.ch</p>
+                        <p class="text-center"><a href="mailto:mail@inuk-kollektiv.ch">mail@inuk-kollektiv.ch</a></p>
                     </div>
                 </div>
 
