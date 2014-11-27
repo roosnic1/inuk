@@ -1,6 +1,11 @@
 language: node_js
 node_js:
-	- "0.8"
-before_install: npm install -g grunt-cli
-install: npm install
-before_script: grunt build
+- '0.10'
+before_script:
+- npm install -g bower grunt-cli
+- bower install
+script:
+- grunt build
+after_success:
+- cd dist
+#- find . -type f -exec curl -u $FTP_USER:$FTP_PASSWORD --ftp-create-dirs -T {} ftp://ftp.tiefenauer.info/web/m3d/{} \;
