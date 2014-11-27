@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/roosnic1/inuk.svg)](https://travis-ci.org/roosnic1/inuk)
