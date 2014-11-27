@@ -8,4 +8,4 @@ script:
 - grunt build
 after_success:
 - cd dist
-#- find . -type f -exec curl -u $FTP_USER:$FTP_PASSWORD --ftp-create-dirs -T {} ftp://ftp.tiefenauer.info/web/m3d/{} \;
+- find . -type f -exec curl -u $inukftpuser:$inukftppw --ftp-create-dirs -T {} ftp://ftp.chillville.ch/{} \;
