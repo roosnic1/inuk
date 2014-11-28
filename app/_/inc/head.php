@@ -6,7 +6,7 @@
         <link rel="shortcut icon" href="http://<?php echo($ServerName); ?>/favicon.ico">
 
         <!-- Import custom bootstrap -->
-        <link rel="stylesheet" href="/_/css/bootstrap.custom.min.css">
+        <link rel="stylesheet" href="/_/css/custom/bootstrap.custom.min.css">
 
 
         <!-- build:css({.tmp,app}) /_/css/bootstrap.css -->
