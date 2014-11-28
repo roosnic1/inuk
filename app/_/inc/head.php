@@ -5,6 +5,9 @@
         <!-- Custom Favicon -->
         <link rel="shortcut icon" href="http://<?php echo($ServerName); ?>/favicon.ico">
 
+        <!-- Import custom bootstrap -->
+        <link rel="stylesheet" href="/_/css/bootstrap.custom.min.css">
+
 
         <!-- build:css({.tmp,app}) /_/css/bootstrap.css -->
         <link rel="stylesheet" href="/_/bower_components/bootstrap/dist/css/bootstrap.css">
