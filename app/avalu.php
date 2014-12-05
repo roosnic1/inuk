@@ -31,7 +31,7 @@
                     <div class="col-xs-12 koDesc">
                         <h1 class="text-center">Avalu</h1>
                         <p class="text-center">Der Posterrahmen aus Dreiecksprofilen gibt dem Poster</p>
-                        <p class="text-center">- wie früher in der Schule -</p>
+                        <!--p class="text-center">- wie früher in der Schule -</p>-->
                         <p class="text-center">den nötigen Halt.</p>
                     </div>
 
