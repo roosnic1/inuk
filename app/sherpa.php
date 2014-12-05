@@ -54,7 +54,7 @@
 
                 <div class="row">
                     <div class="col-sm-5 col-xs-12 koDesc2">
-                        <p>Sherpa ist ein kleinen Helfer zum Tragen von schweren Packeten oder Altpapierbündeln. Das Bambusrohr verhindert das Einschneiden der Schnur in die Hand und verteilt den Druck auf eine grössere Fläche.</p>
+                        <p>Sherpa ist ein kleiner Helfer zum Tragen von schweren Packeten oder Altpapierbündeln. Das Bambusrohr verhindert das Einschneiden der Schnur in die Hand und verteilt den Druck auf eine grössere Fläche.</p>
 
                         <table>
                           <tr>
