@@ -2,6 +2,6 @@
 	"folders": [{
 		"follow_symlinks": true,
 		"path": ".",
-		"folder_exclude_patterns": [".tmp", "node_modules"]
+		"folder_exclude_patterns": [".tmp", "node_modules", "dist"]
 	}]
 }
