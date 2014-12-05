@@ -54,7 +54,8 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-sm-5 col-xs-12 koDesc2">
+                    <!--div class="col-sm-5 col-xs-12 koDesc2">-->
+                    <div class="col-sm-6 col-sm-offset-3 col-xs-12 koDesc2">
                         <p>Es war einmal vor langer Zeit, der Verehrer einer holden Maid.
                         Im Dichten und Singen völlig unbegabt,
                         hat er sich unter ihr Fenster gewagt.
@@ -89,13 +90,13 @@
                           </tr>
                         </table>
                     </div>
-                    <div class="col-xs-12 visible-xs-block">
+                    <!--div class="col-xs-12 visible-xs-block">
                         <div class="koProdBreak"></div>
 
                     </div>
                     <div class="col-sm-7 col-xs-12">
                         <img src="/_/img/sir/img2.jpg" class="koProdImg" />
-                    </div>
+                    </div>-->
                 </div>
 
                 <div class="row">
