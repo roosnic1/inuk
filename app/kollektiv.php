@@ -30,7 +30,8 @@
                 <div class="row">
                     <div class="col-xs-12 koDesc">
                         <h1 class="text-center">inuk kollektiv</h1>
-                        <p class="text-center">'Inuk' ist Inuktitut (die Sprache der Inuit) und bedeutet 'Mensch'. (Mehrzahl: 'Inuit')</p>
+                        <p class="text-center">'Inuk' ist Inuktitut (die Sprache der Inuit) und bedeutet 'Mensch'. <br>
+                        (Mehrzahl: 'Inuit')</p>
                     </div>
 
                 </div>
