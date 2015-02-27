@@ -124,7 +124,7 @@
 
 				<div class="row">
                     <div class="col-xs-12 col-sm-7 koMouseOver">
-                        <a href="/sherpa.php">
+                        <a href="/fabrik.php">
                             <img src="/_/img/preview_fabrik.jpg" class="koProdImg" />
                             <div class="koProdInfo koPIFabrik">
                                 <h1 class="text-center">Fabrik</h1>
