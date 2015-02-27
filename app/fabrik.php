@@ -22,17 +22,14 @@
 
                 <div class="row">
                     <div class="col-xs-4 col-xs-offset-4">
-                        <img src="/_/img/stamp_avalu.png" class="koProdImg" />
+                        <img src="/_/img/stamp_fabrik.png" class="koProdImg" />
                     </div>
 
                 </div>
 
                 <div class="row">
                     <div class="col-xs-12 koDesc">
-                        <h1 class="text-center">Avalu</h1>
-                        <p class="text-center">Der Posterrahmen aus Dreiecksprofilen gibt dem Poster</p>
-                        <!--p class="text-center">- wie früher in der Schule -</p>-->
-                        <p class="text-center">den nötigen Halt.</p>
+                        <h1 class="text-center">Fabrik</h1>
                     </div>
 
                 </div>
@@ -45,7 +42,7 @@
 
                 <div class="row">
                     <div class="col-xs-12">
-                        <img src="/_/img/avalu/img1.jpg" class="koProdImg" />
+                        <img src="/_/img/fabrik/img1.jpg" class="koProdImg" />
                     </div>
                 </div>
 
@@ -57,23 +54,18 @@
 
                 <div class="row">
                     <div class="col-sm-5 col-xs-12 koDesc2">
-                        <!--
-                        <p>Die kleine Espressotasse wurde inspiriert durch die Formen des Keramikkunsthandwerkes aus dem 18. Jahrhundert. Die Form wurde an die heutige Zeit adaptiert und mittels modernen 3D-Druckverfahrens hergestellt.</p>
-                        -->
+                        <p>Der mit wenigen Schnitten und Bohrungen hergestellte Kerzenständer kann schnell und einfach produziert werden. Erst mit einer Kerze als Schornstein jedoch, wird er zur Fabrik. Ein Wechselspiel zwischen Ursprünglichem und Fortschritt.</p>
 
                         <table>
                           <tr>
                             <td><p>Grösse:</p></td>
-                            <td><p>450 x 640 x 900mm</p></td>
-                          </tr>
-                          <tr>
-                            <td><p>Posterformate:</p></td>
-                            <td><p>A3 quer/A2 hoch, A2 quer/A1 hoch, A1 quer/A0 hoch
-</p></td>
+                            <td><p>60 x 100 x 100mm</p>
+                              <p>60 x 100 x 50mm<br>
+                            </p></td>
                           </tr>
                           <tr>
                             <td><p>Material:</p></td>
-                            <td><p>Hamolck, Reispapier, Baumwolle, Magnete</p></td>
+                            <td><p>Nussbaum, Messing</p></td>
                           </tr>
                           <tr>
                             <td><p>Jahr:</p></td>
@@ -81,7 +73,7 @@
                           </tr>
                           <tr>
                             <td><p>Design:</p></td>
-                            <td><p>Jacqueline Amacher, Humberto Rapelli</p></td>
+                            <td><p>Jacqueline Amacher</p></td>
                           </tr>
                         </table>
                     </div>
@@ -90,7 +82,25 @@
 
                     </div>
                     <div class="col-sm-7 col-xs-12">
-                        <img src="/_/img/avalu/img2.jpg" class="koProdImg" />
+                        <img src="/_/img/fabrik/img2.jpg" class="koProdImg" />
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="koProdBreak"></div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6">
+                        <img src="/_/img/fabrik/img3.jpg" class="koProdImg" />
+                    </div>
+                    <div class="col-xs-12 visible-xs-block">
+                        <div class="koProdBreak"></div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6">
+                        <img src="/_/img/fabrik/img4.jpg" class="koProdImg" />
                     </div>
                 </div>
 
@@ -102,46 +112,9 @@
 
                 <div class="row">
                     <div class="col-xs-12">
-                        <img src="/_/img/avalu/img3.jpg" class="koProdImg" />
+                        <img src="/_/img/fabrik/img5.jpg" class="koProdImg" />
                     </div>
                 </div>
-
-                <div class="row">
-                    <div class="col-xs-12">
-                        <div class="koProdBreak"></div>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-xs-12">
-                        <img src="/_/img/avalu/img4.jpg" class="koProdImg" />
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-xs-12">
-                        <div class="koProdBreak"></div>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-xs-12">
-                        <img src="/_/img/avalu/img5.jpg" class="koProdImg" />
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-xs-12">
-                        <div class="koProdBreak"></div>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-xs-12">
-                        <img src="/_/img/avalu/img6.jpg" class="koProdImg" />
-                    </div>
-                </div>
-
-
-
 
             </div>
         </div>
