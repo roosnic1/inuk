@@ -122,6 +122,13 @@
 
                 </div>
 
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="koProdBreak"></div>
+                    </div>
+                </div>
+
+
 				<div class="row">
                     <div class="col-xs-12 col-sm-7 koMouseOver">
                         <a href="/fabrik.php">
