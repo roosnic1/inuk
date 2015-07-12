@@ -73,15 +73,15 @@
                           </tr>
                           <tr>
                             <td><p>Material:</p></td>
-                            <td><p>Hamolck, Reispapier, Baumwolle, Magnete</p></td>
+                            <td><p>Hamlock, Reispapier, Baumwolle, Magnete</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Hersteller:</p></td>
+                            <td><p>BSZ Stiftung</p></td>
                           </tr>
                           <tr>
                             <td><p>Jahr:</p></td>
                             <td><p>2014</p></td>
-                          </tr>
-                          <tr>
-                            <td><p>Design:</p></td>
-                            <td><p>Jacqueline Amacher, Humberto Rapelli</p></td>
                           </tr>
                         </table>
                     </div>

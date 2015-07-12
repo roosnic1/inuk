@@ -55,7 +55,7 @@
 
                 <div class="row">
                     <!--div class="col-sm-5 col-xs-12 koDesc2">-->
-                    <div class="col-sm-6 col-sm-offset-3 col-xs-12 koDesc2">
+                    <div class="col-xs-12 koDesc">
                         <p>Es war einmal vor langer Zeit, der Verehrer einer holden Maid.
                         Im Dichten und Singen völlig unbegabt,
                         hat er sich unter ihr Fenster gewagt.
@@ -70,7 +70,10 @@
                         Mit einem Beutel voller Geld,
                         erobert er die weite Welt.
                         </p>
+                    </div>
 
+
+                    <div class="col-xs-6 col-sm-offset-3 col-xs-12 koDesc2">
                         <table>
                           <tr>
                             <td><p>Material:</p></td>

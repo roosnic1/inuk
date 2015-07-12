@@ -30,8 +30,7 @@
                 <div class="row">
                     <div class="col-xs-12 koDesc">
                         <h1 class="text-center">inuk kollektiv</h1>
-                        <p class="text-center">'Inuk' ist Inuktitut (die Sprache der Inuit) und bedeutet 'Mensch'. <br>
-                        (Mehrzahl: 'Inuit')</p>
+                        <p class="text-center">'Inuk' ist Inuktitut, die Sprache der Inuit und bedeutet 'Mensch‘.</p>
                     </div>
 
                 </div>
@@ -44,7 +43,7 @@
 
                 <div class="row">
                     <div class="col-sm-6 col-xs-12 koKollektiv">
-                        <p class="text-right">Inuk kollektiv besteht aus den Produktdesignern Humberto Rapelli (BA of Arts in Product- & Industrialdesign, FHNW) und Jacqueline Amacher (BA of Arts in Product- & Industrialdesign, Luzern). </p>
+                        <p class="text-right">inuk kollektiv besteht aus den Produktdesignern Humberto Rapelli (BA of Arts in Product- & Industrialdesign, FHNW) und Jacqueline Amacher (BA of Arts in Product- & Industrialdesign, Luzern). </p>
                         <p class="text-right">Mit Freude an Material und Form kreiert das junge Luzerner Designlabel verspielte und poetische Begleiter für den Alltag. Für ihre Produkte lassen sich die beiden Designer besonders von verschiedenen kulturelle Ursprünge, geschichtlichen Ereignissen und der Natur inspirieren.</p>
                         <p class="text-right">Dabei steht der bewusste Einsatz von Materialien, eine möglichst nachhaltige und soziale Produktion für inuk kollektiv im Vordergrund. Mit Funkionalität, Innovation und Sinnlichkeit versuchen die Designer von inuk kollektiv bestmöglich auf  die Bedürfnisse des (individuellen) Menschen einzugehen.</p>
                     </div>
@@ -64,7 +63,7 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-xs-12 col-sm-10 col-sm-offset-1">
+                    <div class="col-xs-12 col-sm-10 col-sm-offset-1 koKollektiv">
                         <h4 class="text-center">Humberto Rapelli & Jacqueline Amacher</h4>
                         <p class="text-center"><a href="mailto:mail@inuk-kollektiv.ch">mail@inuk-kollektiv.ch</a></p>
                     </div>
