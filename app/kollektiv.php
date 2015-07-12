@@ -7,7 +7,7 @@
 <!--[if gt IE 9]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
     <title></title>
-    <meta name="description" content="">
+    <meta name="description" content="Produkt Design Luzern, Jacqueline Amacher, Humberto Rapelli">
     <?php require("_/inc/head.php"); ?>
 </head>
 <body>
