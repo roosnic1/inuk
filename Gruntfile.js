@@ -328,6 +328,7 @@ module.exports = function(grunt) {
                         '_/foundation/images/**/*.{png,jpg,gif}',
                         '_/css/fonts/*',
                         '_/css/custom/*',
+                        '_/pdf/*',
                         '**/*.php'
                     ]
                 }, {
