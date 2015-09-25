@@ -19,6 +19,9 @@
                         <?php require('_/inc/header.php'); ?>
                     </div>
                 </div>
+                
+                
+                
 
                 <div class="row">
                     <div class="col-xs-12 col-sm-5 koMouseOver">
@@ -145,19 +148,18 @@
                         <div class="koProdBreak"></div>
 
                     </div>
-                    <!--
                     <div class="col-xs-12 col-sm-5 koMouseOver">
-                        <a href="/sir.php">
-                            <img src="/_/img/preview_sir.jpg" class="koProdImg" />
-                            <div class="koProdInfo koPISir">
-                                <h1 class="text-center">Sir</h1>
+                        <a href="/nuuli.php">
+                            <img src="/_/img/preview_nuuli.jpg" class="koProdImg" />
+                            <div class="koProdInfo koPINuuli">
+                                <h1 class="text-center">Nuuli</h1>
                                 <div>
-                                    <h3 class="text-center">Münzbeutel</h3>
+                                    <h3 class="text-center">Riitiseili</h3>
                                 </div>
                             </div>
                         </a>
                     </div>
-                    -->
+
 
                 </div>
 
