@@ -149,10 +149,10 @@
 
                     </div>
                     <div class="col-xs-12 col-sm-5 koMouseOver">
-                        <a href="/nuuli.php">
-                            <img src="/_/img/preview_nuuli.jpg" class="koProdImg" />
-                            <div class="koProdInfo koPINuuli">
-                                <h1 class="text-center">Nuuli</h1>
+                        <a href="/nuulli.php">
+                            <img src="/_/img/preview_nuulli.jpg" class="koProdImg" />
+                            <div class="koProdInfo koPINuulli">
+                                <h1 class="text-center">Nuulli</h1>
                                 <div>
                                     <h3 class="text-center">Riitiseili</h3>
                                 </div>
