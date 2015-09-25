@@ -45,7 +45,7 @@
 
                 <div class="row">
                     <div class="col-xs-12">
-                        <img src="/_/img/nuuli/inuk_kollektiv_produktdesign_humberto_rapelli_jacqueline_amacher__riitiseili_nuulli_01" class="koProdImg" />
+                        <img src="/_/img/nuuli/inuk_kollektiv_produktdesign_humberto_rapelli_jacqueline_amacher__riitiseili_nuulli_01.jpg" class="koProdImg" />
                     </div>
                 </div>
 
@@ -96,19 +96,19 @@
 
                 <div class="row">
                     <div class="col-xs-12 col-sm-4">
-                        <img src="/_/img/nuuli/inuk_kollektiv_produktdesign_humberto_rapelli_jacqueline_amacher__riitiseili_nuulli_02" class="koProdImg" />
+                        <img src="/_/img/nuuli/inuk_kollektiv_produktdesign_humberto_rapelli_jacqueline_amacher__riitiseili_nuulli_02.jpg" class="koProdImg" />
                     </div>
                     <div class="col-xs-12 visible-xs-block">
                         <div class="koProdBreak"></div>
                     </div>
                     <div class="col-xs-12 col-sm-4">
-                        <img src="/_/img/nuuli/inuk_kollektiv_produktdesign_humberto_rapelli_jacqueline_amacher__riitiseili_nuulli_03" class="koProdImg" />
+                        <img src="/_/img/nuuli/inuk_kollektiv_produktdesign_humberto_rapelli_jacqueline_amacher__riitiseili_nuulli_03.jpg" class="koProdImg" />
                     </div>
                     <div class="col-xs-12 visible-xs-block">
                         <div class="koProdBreak"></div>
                     </div>
                     <div class="col-xs-12 col-sm-4">
-                        <img src="/_/img/nuuli/inuk_kollektiv_produktdesign_humberto_rapelli_jacqueline_amacher__riitiseili_nuulli_11" class="koProdImg" />
+                        <img src="/_/img/nuuli/inuk_kollektiv_produktdesign_humberto_rapelli_jacqueline_amacher__riitiseili_nuulli_11.jpg" class="koProdImg" />
                     </div>
                 </div>
 
@@ -120,7 +120,7 @@
 
                 <div class="row">
                     <div class="col-xs-12">
-                        <img src="/_/img/nuuli/inuk_kollektiv_produktdesign_humberto_rapelli_jacqueline_amacher__riitiseili_nuulli_04" class="koProdImg" />
+                        <img src="/_/img/nuuli/inuk_kollektiv_produktdesign_humberto_rapelli_jacqueline_amacher__riitiseili_nuulli_04.jpg" class="koProdImg" />
                     </div>
                 </div>
 
@@ -132,7 +132,7 @@
 
                 <div class="row">
                     <div class="col-xs-12">
-                        <img src="/_/img/nuuli/inuk_kollektiv_produktdesign_humberto_rapelli_jacqueline_amacher__riitiseili_nuulli_05" class="koProdImg" />
+                        <img src="/_/img/nuuli/inuk_kollektiv_produktdesign_humberto_rapelli_jacqueline_amacher__riitiseili_nuulli_05.jpg" class="koProdImg" />
                     </div>
                 </div>
 
